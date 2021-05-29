@@ -1,2 +1,2 @@
-# PROJECT_Java
-uni-java-project
+# Social Media
+Java semester project about a social media platform in CLI
