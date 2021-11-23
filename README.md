@@ -1,2 +1,2 @@
 # Social Media
-Java semester project about a social media platform in CLI
+Java project implementing a social media platform in CLI
