@@ -1,2 +1,2 @@
 # Social Media
-Java project implementing a social media platform in CLI
+Java project that implements a social media platform in CLI
